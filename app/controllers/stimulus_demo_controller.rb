@@ -1,0 +1,2 @@
+class StimulusDemoController < ApplicationController
+end
